@@ -1,1 +1,1 @@
-# chicago-air-quality
+# Chicago Air Quality Project

@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data/hourly_avg_by_device.csv
+
+config.py

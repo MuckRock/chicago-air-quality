@@ -1,0 +1,5 @@
+UrlGetDeploymentDetails = "https://urban.microsoft.com/api/EclipseData/GetDeploymentDetails"
+UrlGetDeviceList = "https://urban.microsoft.com/api/EclipseData/GetDeviceList"
+UrlGetLatestReadings = "https://urban.microsoft.com/api/EclipseData/GetLatestReadings"
+UrlGetReadings = "https://urban.microsoft.com/api/EclipseData/GetReadings"
+access_token = ""
